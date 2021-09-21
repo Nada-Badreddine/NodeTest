@@ -1,0 +1,22 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nada-Badreddine/NodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nada-Badreddine/NodeTest/issues"
+  },
+  "homepage": "https://github.com/Nada-Badreddine/NodeTest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
